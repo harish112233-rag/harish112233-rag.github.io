@@ -3,7 +3,7 @@
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/harish112233-rag/harish112233-rag.github.io)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://harish112233-rag.github.io)
-[![Author](https://img.shields.io/badge/Author-Harish%20Jangid-purple.svg)](https://www.instagram.com/harish__g_?igshid=YmMyMTA2MsY%3D)
+[![Author](https://img.shields.io/badge/Author-Harish%20Raghavendar-purple.svg)](https://www.instagram.com/harish__g_?igshid=YmMyMTA2MsY%3D)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/harish112233-rag/harish112233-rag.github.io)
 <a href="[https://github.com/harish112233-rag/harish112233-rag.github.io]/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
