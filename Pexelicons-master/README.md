@@ -23,7 +23,7 @@ Pexelicons is a website that offers custom folder icons for Windows, allowing us
 
 ### Download Icons
 
-Visit the [Pexelicons Website](https://vinodjangid07.github.io/Pexelicons) to download custom folder icons for your PC.
+Visit the [Pexelicons Website](https://harish112233-rag.github.io/Pexelicons-master) to download custom folder icons for your PC.
 
 ### How to Use
 
@@ -47,8 +47,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- For inquiries, contact infovinodjangid@gmail.com
-
+- For inquiries, contact harishraghav906@gmail.com
 ---
 
-<p align="center">Design & Built by <a href="https://github.com/vinodjangid07">@Vinodjangid07</a> | &copy; twentytwentyfour</p>
+<p align="center">Design & Built by <a href="https://github.com/harish112233-rag">@Harish Raghavendar G</a> | &copy; twentytwentyfour</p>
